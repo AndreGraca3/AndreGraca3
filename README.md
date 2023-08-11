@@ -1,5 +1,8 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm André Graça!</h1>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e46fe05b34280549fa8679fa38c5a5509f563f5084f20ffa15f4514a6834cf6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736d6173686168">
+ <img src="https://komarev.com/ghpvc/?username=AndreGraca3&color=orange" alt="AndreGraca3" data-canonical-src="https://komarev.com/ghpvc/?username=AndreGraca3" style="max-width: 100%;"></a> </p>
+
 ## ℹ️ About Me
 
 Welcome to my profile! Let me introduce myself:
@@ -44,6 +47,9 @@ Welcome to my profile! Let me introduce myself:
 </div>
 
 ## 📊 My GitHub Data
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreGraca3&theme=slateorange" alt="7oSkaaa" /></p>
