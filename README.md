@@ -56,11 +56,3 @@ Bash         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<div align="center">
-  <p align="center">
-    <img alt="AndreGraca3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreGraca3&show_icons=true&count_private=true&theme=slateorange" height="192px"/>
-    <br/>
-    <b>Note:</b> These metrics reflect the languages in my public code and not my overall experience/skill level.
-  </p>
-</div>
