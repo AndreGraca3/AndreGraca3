@@ -46,21 +46,21 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 16.9 kB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2023
+> 🏆 66 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -89,15 +89,15 @@ Sunday                   131 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               4 hrs 30 mins       ███████████████████░░░░░░   76.25 % 
-SQL                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JavaScript               6 hrs 20 mins       █████████████████░░░░░░░░   66.97 % 
+SQL                      1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Kotlin                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       ████████████████████████░   97.70 % 
-IntelliJ                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   98.56 % 
+IntelliJ                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -117,5 +117,5 @@ VHDL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2023 01:12:59 UTC
+ Last Updated on 14/08/2023 01:10:36 UTC
 <!--END_SECTION:waka-->
