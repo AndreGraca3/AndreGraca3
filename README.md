@@ -46,7 +46,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -117,5 +117,5 @@ VHDL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2023 02:49:03 UTC
+ Last Updated on 19/08/2023 01:07:41 UTC
 <!--END_SECTION:waka-->
