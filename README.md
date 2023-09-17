@@ -46,7 +46,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -89,14 +89,13 @@ Sunday                   136 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-JavaScript               25 hrs 31 mins      █████████████████████████   99.07 % 
-TSQL                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JavaScript               23 hrs 20 mins      █████████████████████████   98.99 % 
+TSQL                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -116,5 +115,5 @@ VHDL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2023 01:12:21 UTC
+ Last Updated on 17/09/2023 01:17:31 UTC
 <!--END_SECTION:waka-->
