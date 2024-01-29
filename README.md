@@ -116,5 +116,5 @@ VHDL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2024 01:19:06 UTC
+ Last Updated on 29/01/2024 01:15:13 UTC
 <!--END_SECTION:waka-->
