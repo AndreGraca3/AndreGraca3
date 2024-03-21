@@ -46,7 +46,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -89,14 +89,14 @@ Sunday                   131 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       12 hrs 9 mins       ██████████████████░░░░░░░   72.81 % 
-SQL                      4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-GitIgnore file           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Csproj                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C#                       16 hrs 39 mins      ████████████████████░░░░░   78.40 % 
+SQL                      4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+GitIgnore file           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Csproj                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Jetbrainsrider           16 hrs 41 mins      █████████████████████████   100.00 % 
+Jetbrainsrider           21 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2024 01:13:53 UTC
+ Last Updated on 21/03/2024 01:15:17 UTC
 <!--END_SECTION:waka-->
