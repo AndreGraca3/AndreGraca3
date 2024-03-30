@@ -46,9 +46,9 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,15 +87,15 @@ Sunday                   135 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       23 hrs 36 mins      █████████████████████░░░░   85.11 % 
-SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Kotlin                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Csproj                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+C#                       20 hrs 59 mins      ███████████████░░░░░░░░░░   61.75 % 
+Kotlin                   7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+SQL                      2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+XML                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Csproj                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Jetbrainsrider           26 hrs 53 mins      ████████████████████████░   96.97 % 
-Android Studio           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Jetbrainsrider           24 hrs 5 mins       ██████████████████░░░░░░░   70.89 % 
+Android Studio           9 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -115,5 +115,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2024 01:14:40 UTC
+ Last Updated on 30/03/2024 01:12:21 UTC
 <!--END_SECTION:waka-->
