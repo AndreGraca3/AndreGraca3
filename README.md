@@ -46,7 +46,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 117.7 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,16 +89,16 @@ Sunday                   246 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Kotlin                   17 hrs 33 mins      ██████████████████░░░░░░░   73.02 % 
-C#                       4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Java                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Properties               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Kotlin                   14 hrs 12 mins      ████████████░░░░░░░░░░░░░   48.29 % 
+C#                       13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   45.98 % 
+Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Csproj                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Android Studio           17 hrs 50 mins      ███████████████████░░░░░░   74.16 % 
-Jetbrainsrider           5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Intellijidea             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Android Studio           14 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.93 % 
+Jetbrainsrider           13 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.99 % 
+Intellijidea             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -118,5 +118,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 01:25:52 UTC
+ Last Updated on 13/05/2024 01:21:17 UTC
 <!--END_SECTION:waka-->
