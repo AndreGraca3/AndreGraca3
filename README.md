@@ -46,7 +46,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,13 +54,13 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 119.5 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
+> 🏆 159 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -89,17 +89,17 @@ Sunday                   267 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Kotlin                   20 hrs 36 mins      ████████████████░░░░░░░░░   63.73 % 
-TypeScript               4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-C#                       3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Java                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-SQL                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Kotlin                   19 hrs 12 mins      ███████████████░░░░░░░░░░   60.76 % 
+TypeScript               5 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+C#                       3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Java                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+SQL                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-Android Studio           21 hrs 18 mins      ████████████████░░░░░░░░░   65.91 % 
-Jetbrainsrider           4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-VS Code                  4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Intellijidea             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Android Studio           19 hrs 41 mins      ████████████████░░░░░░░░░   62.34 % 
+VS Code                  6 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Jetbrainsrider           4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Intellijidea             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -119,5 +119,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2024 01:22:21 UTC
+ Last Updated on 06/06/2024 01:22:45 UTC
 <!--END_SECTION:waka-->
