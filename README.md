@@ -12,7 +12,7 @@ Welcome to my profile! Let me introduce myself:
 
 - 💬 Feel free to connect with me for discussions related to `Kotlin` or `Web Development`.
 
-- ⚡ In my leisure time, I'm either breaking a sweat with my `Workout`💪, mastering new `Programming Skills`👨‍💻, or enjoying the company of `friends`👥.
+- ⚡ In my free time, I'm either in my `Workout`💪, mastering new `Programming Skills`👨‍💻 or enjoying the company of my `friends`👥.
 
 ## 🤝 Connect with me
 
