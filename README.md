@@ -89,11 +89,10 @@ Sunday                   375 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Kotlin                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             46 mins             ██████████████████████░░░   88.85 % 
-Android Studio           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Intellijidea             46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2024 01:29:49 UTC
+ Last Updated on 06/08/2024 01:28:35 UTC
 <!--END_SECTION:waka-->
