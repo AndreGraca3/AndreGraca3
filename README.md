@@ -46,15 +46,15 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C278%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 120.2 kB Used in GitHub's Storage 
+> 📦 120.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 244 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,14 +89,14 @@ Sunday                   378 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       47 mins             █████████████████████░░░░   85.76 % 
-Razor                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+C#                       1 hr 6 mins         ██████████████████████░░░   89.33 % 
+Razor                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Jetbrainsrider           55 mins             ██████████████░░░░░░░░░░░   54.41 % 
-Intellijidea             46 mins             ███████████░░░░░░░░░░░░░░   45.59 % 
+Jetbrainsrider           1 hr 14 mins        ███████████████░░░░░░░░░░   61.44 % 
+Intellijidea             46 mins             ██████████░░░░░░░░░░░░░░░   38.56 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 01:38:28 UTC
+ Last Updated on 11/09/2024 01:37:40 UTC
 <!--END_SECTION:waka-->
