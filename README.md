@@ -4,7 +4,7 @@
 
 Welcome to my profile! Let me introduce myself:
 
-- 🔭 Currently diving into the world of Android Development 🅰️
+- 🔭 Currently diving into the world of Angular 🅰️
 
 - 🌱 My ongoing studies focus on `Web Development` but I also love `Cybersecurity`.
  
