@@ -4,15 +4,15 @@
 
 Welcome to my profile! Let me introduce myself:
 
-- 🔭 Currently diving into the world of Android Development 📱.
+- 🔭 Currently diving into the world of Android Development 🅰️
 
-- 🌱 My ongoing studies focus on `Web Development` as I strive to expand my knowledge and skills.
+- 🌱 My ongoing studies focus on `Web Development` but I also love `Cybersecurity`.
  
 - 🚀 Passionately exploring new languages, design patterns, skills, and ingenious tricks, all contributing to my ongoing journey of developer growth.
 
-- 💬 Feel free to connect with me for discussions related to `Kotlin` or `Web Development`.
-
 - ⚡ In my free time, I'm either in my `Workout`💪, mastering new `Programming Skills`👨‍💻 or enjoying the company of my `friends`👥.
+
+- 💬 Feel free to connect with me.
 
 ## 🤝 Connect with me
 
