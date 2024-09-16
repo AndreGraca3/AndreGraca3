@@ -10,7 +10,7 @@ Welcome to my profile! Let me introduce myself:
  
 - 🚀 Passionately exploring new languages, design patterns, skills, and ingenious tricks, all contributing to my ongoing journey of developer growth.
 
-- ⚡ In my free time, I'm either in my `Workout`💪, mastering new `Programming Skills`👨‍💻 or enjoying the company of my `friends`👥.
+- ⚡ In my free time, I'm either in my `Workout 💪`, mastering new `Programming Skills 👨‍💻` or enjoying the company of my `Friends 👥`
 
 - 💬 Feel free to connect with me.
 
