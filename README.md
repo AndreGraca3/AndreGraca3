@@ -17,11 +17,8 @@ Welcome to my profile! Let me introduce myself:
 ## 🤝 Connect with me
 
 <p align="center">
-  <a style="margin-left: 10px;" target="_blank" href="mailto:sindrome.gracinha@gmail.com">
+  <a style="margin-left: 10px;" target="_blank" href="mailto:andre.graca.2001@gmail.com">
     <img width="50px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Andre_Graca3">
-    <img src="https://skillicons.dev/icons?i=twitter">
   </a>
 </p>
 
