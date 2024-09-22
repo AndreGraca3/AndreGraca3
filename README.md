@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C299%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 120.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 250 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,15 +86,16 @@ Sunday                   380 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       14 hrs 54 mins      ████████████████████░░░░░   81.96 % 
-SQL                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C#                       12 hrs 51 mins      █████████████████████░░░░   82.25 % 
+SQL                      2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Jetbrainsrider           17 hrs 52 mins      █████████████████████████   98.31 % 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Jetbrainsrider           15 hrs 31 mins      █████████████████████████   99.32 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +115,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 01:37:52 UTC
+ Last Updated on 22/09/2024 01:47:13 UTC
 <!--END_SECTION:waka-->
