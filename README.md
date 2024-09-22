@@ -18,7 +18,7 @@ Welcome to my profile! Let me introduce myself:
 
 <p align="center">
   <a style="margin-left: 10px;" target="_blank" href="mailto:andre.graca.2001@gmail.com">
-    <img width="50px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI">
+    <img width="50px" src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png">
   </a>
 </p>
 
