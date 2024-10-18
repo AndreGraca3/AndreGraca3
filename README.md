@@ -43,15 +43,13 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C395%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 120.7 kB Used in GitHub's Storage 
- > 
-> 🏆 259 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,15 +84,15 @@ Sunday                   383 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Java                     31 hrs 14 mins      ████████████████████████░   97.29 % 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Java                     31 hrs 3 mins       █████████████████████████   98.73 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            31 hrs 29 mins      █████████████████████████   98.07 % 
-VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+IntelliJ IDEA            31 hrs 15 mins      █████████████████████████   99.36 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 01:42:35 UTC
+ Last Updated on 18/10/2024 01:43:11 UTC
 <!--END_SECTION:waka-->
