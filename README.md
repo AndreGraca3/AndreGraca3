@@ -43,13 +43,15 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 120.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 262 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +59,43 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+🌆 Daytime                1051 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌃 Evening                1273 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌙 Night                  517 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   478 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Tuesday                  461 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Wednesday                325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Thursday                 274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Saturday                 500 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   385 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+Java                     14 hrs 53 mins      ██████████████████████░░░   88.13 % 
+C#                       1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Manifest                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+
+🔥 Editors: 
+IntelliJ IDEA            15 hrs 1 min        ██████████████████████░░░   88.89 % 
+Visual Studio            1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -74,5 +113,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 01:43:47 UTC
+ Last Updated on 23/10/2024 01:42:17 UTC
 <!--END_SECTION:waka-->
