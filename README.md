@@ -43,13 +43,15 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C494%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 120.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 272 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,14 +86,15 @@ Sunday                   387 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       14 hrs 46 mins      ██████████████████░░░░░░░   72.09 % 
-YAML                     4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C#                       19 hrs 4 mins       ███████████████████░░░░░░   74.60 % 
+YAML                     5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Csproj                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Jetbrainsrider           20 hrs 29 mins      █████████████████████████   100.00 % 
+Jetbrainsrider           25 hrs 30 mins      █████████████████████████   99.71 % 
+Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -111,5 +114,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 01:45:58 UTC
+ Last Updated on 17/11/2024 01:52:37 UTC
 <!--END_SECTION:waka-->
