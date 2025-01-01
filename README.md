@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.0 kB Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,15 +86,14 @@ Sunday                   387 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       10 hrs 57 mins      █████████████████████░░░░   83.13 % 
-YAML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Config                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+C#                       7 hrs 2 mins        ██████████████████░░░░░░░   71.93 % 
+YAML                     2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Jetbrainsrider           13 hrs 10 mins      █████████████████████████   99.96 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Jetbrainsrider           9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +113,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 01:42:09 UTC
+ Last Updated on 01/01/2025 01:50:05 UTC
 <!--END_SECTION:waka-->
