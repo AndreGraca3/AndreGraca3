@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C797%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C804%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.1 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
+> 🏆 18 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,15 +86,15 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       11 hrs 28 mins      ████████████████░░░░░░░░░   62.00 % 
-JavaScript               3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-YAML                     2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+C#                       13 hrs 2 mins       ██████████████░░░░░░░░░░░   56.43 % 
+JavaScript               5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+YAML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Rider                    15 hrs 13 mins      █████████████████████░░░░   82.22 % 
-VS Code                  3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Rider                    16 hrs 45 mins      ██████████████████░░░░░░░   72.51 % 
+VS Code                  6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -114,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 01:20:14 UTC
+ Last Updated on 09/03/2025 01:26:22 UTC
 <!--END_SECTION:waka-->
