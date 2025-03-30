@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 42 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +86,14 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       14 hrs 50 mins      ████████████████████████░   95.08 % 
-SQL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+C#                       12 hrs 44 mins      ███████████████████████░░   91.52 % 
+XML                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+SQL                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Csproj                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Rider                    15 hrs 37 mins      █████████████████████████   100.00 % 
+Rider                    13 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +113,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 01:48:37 UTC
+ Last Updated on 30/03/2025 01:57:14 UTC
 <!--END_SECTION:waka-->
