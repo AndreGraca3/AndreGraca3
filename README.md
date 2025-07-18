@@ -51,6 +51,8 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.3 kB Used in GitHub's Storage 
  > 
+> 🏆 61 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -84,13 +86,11 @@ Sunday                   365 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       4 hrs 8 mins        █████████████████░░░░░░░░   68.31 % 
-SQL                      1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.69 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C#                       1 hr 31 mins        █████████████████████░░░░   85.50 % 
+SQL                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 
 🔥 Editors: 
-Rider                    6 hrs 4 mins        █████████████████████████   100.00 % 
+Rider                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,5 +110,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2025 02:09:16 UTC
+ Last Updated on 18/07/2025 02:10:57 UTC
 <!--END_SECTION:waka-->
