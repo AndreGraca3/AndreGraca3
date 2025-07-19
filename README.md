@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.3 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,11 +86,10 @@ Sunday                   365 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       1 hr 31 mins        █████████████████████░░░░   85.50 % 
-SQL                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+C#                       43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Rider                    1 hr 46 mins        █████████████████████████   100.00 % 
+Rider                    43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,5 +109,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 02:10:57 UTC
+ Last Updated on 19/07/2025 02:05:08 UTC
 <!--END_SECTION:waka-->
