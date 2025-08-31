@@ -43,13 +43,13 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.3 kB Used in GitHub's Storage 
- > 
-> 🏆 61 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +57,39 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+🌆 Daytime                1044 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌃 Evening                1236 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
+🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Thursday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Saturday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Sunday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -74,5 +107,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 01:46:31 UTC
+ Last Updated on 31/08/2025 01:57:41 UTC
 <!--END_SECTION:waka-->
