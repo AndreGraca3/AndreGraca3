@@ -51,6 +51,8 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.3 kB Used in GitHub's Storage 
  > 
+> 🏆 61 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -111,5 +113,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 01:54:59 UTC
+ Last Updated on 09/09/2025 01:51:02 UTC
 <!--END_SECTION:waka-->
