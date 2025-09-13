@@ -43,15 +43,13 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C155%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C155%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.3 kB Used in GitHub's Storage 
- > 
-> 🏆 61 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +84,14 @@ Sunday                   365 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       18 hrs 53 mins      ███████████████████████░░   91.68 % 
-SQL                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C#                       15 hrs 11 mins      ██████████████████████░░░   89.63 % 
+SQL                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Rider                    20 hrs 35 mins      █████████████████████████   100.00 % 
+Rider                    16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +111,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 01:45:43 UTC
+ Last Updated on 13/09/2025 01:41:43 UTC
 <!--END_SECTION:waka-->
