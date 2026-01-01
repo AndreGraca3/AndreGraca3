@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C282%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 121.4 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,14 +86,14 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       3 hrs 56 mins       ██████████████████░░░░░░░   70.27 % 
-SQL                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       4 hrs 54 mins       ██████████████████████░░░   86.81 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Csproj                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Rider                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Rider                    5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -113,5 +113,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 02:07:34 UTC
+ Last Updated on 01/01/2026 02:24:10 UTC
 <!--END_SECTION:waka-->
