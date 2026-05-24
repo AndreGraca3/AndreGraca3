@@ -43,6 +43,8 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C455%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,39 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌆 Daytime                1044 commits        █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌃 Evening                1230 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Wednesday                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Thursday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Sunday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -74,5 +109,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 03:50:24 UTC
+ Last Updated on 24/05/2026 04:10:49 UTC
 <!--END_SECTION:waka-->
