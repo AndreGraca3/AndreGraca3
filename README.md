@@ -86,10 +86,12 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       41 mins             ████████████████████░░░░░   78.87 % 
+SQL                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -109,5 +111,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 04:21:47 UTC
+ Last Updated on 26/05/2026 04:07:14 UTC
 <!--END_SECTION:waka-->
