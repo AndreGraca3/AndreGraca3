@@ -47,7 +47,7 @@ Welcome to my profile! Let me introduce myself:
 
 **🐱 My GitHub Data** 
 
-> 📦 122.1 kB Used in GitHub's Storage 
+> 📦 122.2 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
@@ -57,44 +57,6 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-🌆 Daytime                1044 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
-🌃 Evening                1231 commits        ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Wednesday                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Thursday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Lisbon
-
-💬 Programming Languages: 
-C#                       7 hrs 6 mins        ████████████████░░░░░░░░░   64.02 % 
-JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Batchfile                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-
-🔥 Editors: 
-Rider                    7 hrs 5 mins        ████████████████░░░░░░░░░   63.86 % 
-Copilot CLI              4 hrs               █████████░░░░░░░░░░░░░░░░   36.14 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -112,5 +74,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:20:17 UTC
+ Last Updated on 25/07/2026 03:18:10 UTC
 <!--END_SECTION:waka-->
