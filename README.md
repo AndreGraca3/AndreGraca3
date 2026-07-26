@@ -43,6 +43,8 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,44 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌆 Daytime                1044 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                1231 commits        ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Thursday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Sunday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+C#                       13 hrs 35 mins      ███████████░░░░░░░░░░░░░░   44.08 % 
+TypeScript               7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+JSON                     4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+SQL                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+
+🔥 Editors: 
+Copilot CLI              21 hrs 50 mins      ██████████████████░░░░░░░   70.85 % 
+Rider                    8 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -74,5 +114,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:18:10 UTC
+ Last Updated on 26/07/2026 03:32:54 UTC
 <!--END_SECTION:waka-->
