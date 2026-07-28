@@ -43,7 +43,9 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C550%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -97,6 +99,28 @@ Copilot CLI              22 hrs 49 mins      ███████████�
 Rider                    9 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 26 hrs 16 mins (82.35%)
+
+✍️ 14,439 lines written by AI, 64 lines written by hand (99.56% AI-written)
+
+🔤 330,143 Input Tokens, 2,022,460 Output Tokens
+
+💵 $31.33 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 266 AI Prompts
+
+Sonnet                   16,057 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.56% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 1.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -114,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:40:40 UTC
+ Last Updated on 28/07/2026 02:57:17 UTC
 <!--END_SECTION:waka-->
