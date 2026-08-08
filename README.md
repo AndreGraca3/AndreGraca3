@@ -43,6 +43,10 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C558%20hrs%2012%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,6 +61,66 @@ Welcome to my profile! Let me introduce myself:
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌆 Daytime                1044 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                1231 commits        ██████████░░░░░░░░░░░░░░░   41.27 % 
+🌙 Night                  482 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   454 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  446 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Thursday                 264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Friday                   653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Saturday                 492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Sunday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   54.01 % 
+C#                       2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+JSON                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Docker                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Microsoft Visual Studio S0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editors: 
+Copilot CLI              7 hrs 47 mins       ████████████████████████░   97.89 % 
+Rider                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 51 mins (98.72%)
+
+✍️ 2,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,435 Input Tokens, 349,823 Output Tokens
+
+💵 $5.25 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 115 AI Prompts
+
+Sonnet                   3,446 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 259 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -74,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:54:49 UTC
+ Last Updated on 08/08/2026 02:00:10 UTC
 <!--END_SECTION:waka-->
