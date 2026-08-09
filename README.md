@@ -51,7 +51,7 @@ Welcome to my profile! Let me introduce myself:
 
 **🐱 My GitHub Data** 
 
-> 📦 122.5 kB Used in GitHub's Storage 
+> 📦 122.6 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
@@ -88,36 +88,36 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   54.01 % 
-C#                       2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-JSON                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Docker                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+TypeScript               3 hrs 57 mins       █████████████░░░░░░░░░░░░   52.37 % 
+C#                       2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+JSON                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Docker                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 Microsoft Visual Studio S0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Copilot CLI              7 hrs 47 mins       ████████████████████████░   97.89 % 
-Rider                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Copilot CLI              7 hrs 23 mins       ████████████████████████░   97.78 % 
+Rider                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 51 mins (98.72%)
+⏱ AI Coding Time: 7 hrs 27 mins (98.65%)
 
-✍️ 2,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,786 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,435 Input Tokens, 349,823 Output Tokens
+🔤 0 Input Tokens, 342,215 Output Tokens
 
-💵 $5.25 Estimated AI Cost This Week
+💵 $5.13 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 115 AI Prompts
+🧠 4 AI Sessions, 113 AI Prompts
 
-Sonnet                   3,446 lines         █████████████████████████   100.00 % 
+Sonnet                   3,415 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 259 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
+📝 Concise Prompter — average 262 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -138,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 02:00:10 UTC
+ Last Updated on 09/08/2026 02:07:32 UTC
 <!--END_SECTION:waka-->
