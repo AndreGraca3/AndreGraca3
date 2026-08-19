@@ -43,23 +43,23 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C560%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C563%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.7 kB Used in GitHub's Storage 
+> 📦 123.1 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -88,47 +88,47 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       1 hr 27 mins        ███████████████░░░░░░░░░░   58.32 % 
-JavaScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+C#                       1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
+TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+JavaScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Dart                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 38 mins        ████████████████░░░░░░░░░   65.89 % 
-Rider                    50 mins             █████████░░░░░░░░░░░░░░░░   34.11 % 
+Copilot CLI              3 hrs 31 mins       ██████████████████░░░░░░░   72.34 % 
+Rider                    1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (69.73%)
+⏱ AI Coding Time: 3 hrs 43 mins (76.48%)
 
-✍️ 404 lines written by AI, 2 lines written by hand (99.51% AI-written)
+✍️ 493 lines written by AI, 6 lines written by hand (98.8% AI-written)
 
-🔤 997,182 Input Tokens, 94,562 Output Tokens
+🔤 962,474 Input Tokens, 157,989 Output Tokens
 
-💵 $9.02 Estimated AI Cost This Week
+💵 $11.15 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 27 AI Prompts
+🧠 8 AI Sessions, 48 AI Prompts
 
-Sonnet                   543 lines           █████████████████████████   100.00 % 
+Sonnet                   659 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📝 Concise Prompter — average 241 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.89% of changed lines were hand-edited
+🤖 AI-Driven — 98.8% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
 
 ```text
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -138,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:36:16 UTC
+ Last Updated on 19/08/2026 01:38:08 UTC
 <!--END_SECTION:waka-->
