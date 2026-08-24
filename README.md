@@ -53,11 +53,11 @@ Welcome to my profile! Let me introduce myself:
 
 > 📦 124.0 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -88,35 +88,35 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Dart                     5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-JavaScript               3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+C#                       6 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Dart                     5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+JavaScript               3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Copilot CLI              21 hrs 14 mins      ██████████████████████░░░   87.70 % 
-Rider                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Copilot CLI              20 hrs 15 mins      ██████████████████████░░░   87.18 % 
+Rider                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 21 mins (92.35%)
+⏱ AI Coding Time: 21 hrs 22 mins (92.03%)
 
-✍️ 9,805 lines written by AI, 21 lines written by hand (99.79% AI-written)
+✍️ 9,690 lines written by AI, 21 lines written by hand (99.78% AI-written)
 
-🔤 2,679,633 Input Tokens, 1,426,172 Output Tokens
+🔤 2,679,633 Input Tokens, 1,345,291 Output Tokens
 
-💵 $35.74 Estimated AI Cost This Week
+💵 $34.53 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 235 AI Prompts
+🧠 20 AI Sessions, 214 AI Prompts
 
-Sonnet                   10,426 lines        █████████████████████████   100.00 % 
+Sonnet                   10,270 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📝 Concise Prompter — average 231 characters per prompt
+🤖 AI-Driven — 99.78% of written lines came from AI
+📝 Concise Prompter — average 244 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
@@ -124,11 +124,11 @@ Sonnet                   10,426 lines        ███████████�
 **I Mostly Code in Kotlin** 
 
 ```text
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -138,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:45:14 UTC
+ Last Updated on 24/08/2026 01:42:42 UTC
 <!--END_SECTION:waka-->
