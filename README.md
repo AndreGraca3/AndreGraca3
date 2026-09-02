@@ -43,9 +43,9 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C593%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C594%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,37 +88,37 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.07 % 
-JavaScript               2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Markdown                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-SQL                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C#                       2 hrs 37 mins       ██████████████░░░░░░░░░░░   54.69 % 
+SQL                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Batchfile                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Copilot CLI              5 hrs 32 mins       ██████████████████░░░░░░░   71.41 % 
-Rider                    2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+Rider                    2 hrs 37 mins       ██████████████░░░░░░░░░░░   54.66 % 
+Copilot CLI              2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (77.37%)
+⏱ AI Coding Time: 2 hrs 41 mins (56.02%)
 
-✍️ 776 lines written by AI, 154 lines written by hand (83.44% AI-written)
+✍️ 129 lines written by AI, 201 lines written by hand (39.09% AI-written)
 
-🔤 1,980,515 Input Tokens, 322,881 Output Tokens
+🔤 2,320,722 Input Tokens, 224,143 Output Tokens
 
-💵 $16.82 Estimated AI Cost This Week
+💵 $13.47 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 101 AI Prompts
+🧠 11 AI Sessions, 35 AI Prompts
 
-Sonnet                   4,848 lines         █████████████████████████   100.00 % 
+Sonnet                   129 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.44% of written lines came from AI
-📝 Concise Prompter — average 152 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.85% of changed lines were hand-edited
+⚖️ Balanced with AI — 39.09% of written lines came from AI
+📝 Concise Prompter — average 139 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 65.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -138,5 +138,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 04:34:19 UTC
+ Last Updated on 02/09/2026 03:57:24 UTC
 <!--END_SECTION:waka-->
