@@ -88,37 +88,36 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       2 hrs 38 mins       ████████████████████░░░░░   80.70 % 
-SQL                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C#                       1 hr 15 mins        ███████████████████░░░░░░   74.83 % 
+SQL                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Rider                    1 hr 50 mins        ██████████████░░░░░░░░░░░   56.02 % 
-Copilot CLI              1 hr 26 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
+Rider                    1 hr 4 mins         ████████████████░░░░░░░░░   64.40 % 
+Copilot CLI              35 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (61.91%)
+⏱ AI Coding Time: 51 mins (51.37%)
 
-✍️ 244 lines written by AI, 82 lines written by hand (74.85% AI-written)
+✍️ 122 lines written by AI, 30 lines written by hand (80.26% AI-written)
 
-🔤 2,456,188 Input Tokens, 234,162 Output Tokens
+🔤 1,166,674 Input Tokens, 62,015 Output Tokens
 
-💵 $15.01 Estimated AI Cost This Week
+💵 $11.76 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 20 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-Sonnet                   244 lines           █████████████████████████   100.00 % 
+Sonnet                   131 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.85% of written lines came from AI
-📝 Concise Prompter — average 147 characters per prompt
+🤖 AI-Driven — 80.26% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.24% of changed lines were hand-edited
+🚀 High AI Trust — 22.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -138,5 +137,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 04:01:48 UTC
+ Last Updated on 09/09/2026 04:08:32 UTC
 <!--END_SECTION:waka-->
