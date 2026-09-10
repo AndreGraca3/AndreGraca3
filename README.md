@@ -88,36 +88,16 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       1 hr 15 mins        ███████████████████░░░░░░   74.83 % 
-SQL                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    1 hr 4 mins         ████████████████░░░░░░░░░   64.40 % 
-Copilot CLI              35 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (51.37%)
-
-✍️ 122 lines written by AI, 30 lines written by hand (80.26% AI-written)
-
-🔤 1,166,674 Input Tokens, 62,015 Output Tokens
-
-💵 $11.76 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 13 AI Prompts
-
-Sonnet                   131 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 80.26% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.29% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -137,5 +117,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 04:08:32 UTC
+ Last Updated on 10/09/2026 04:05:58 UTC
 <!--END_SECTION:waka-->
