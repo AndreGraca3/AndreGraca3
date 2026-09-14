@@ -51,13 +51,13 @@ Welcome to my profile! Let me introduce myself:
 
 **🐱 My GitHub Data** 
 
-> 📦 124.2 kB Used in GitHub's Storage 
+> 📦 124.6 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 15 Private Repositories 
  > 
@@ -103,11 +103,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -117,5 +117,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 04:16:09 UTC
+ Last Updated on 14/09/2026 04:23:36 UTC
 <!--END_SECTION:waka-->
