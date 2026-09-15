@@ -104,8 +104,8 @@ No AI Coding Activity Tracked This Week
 
 ```text
 JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
@@ -117,5 +117,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 04:23:36 UTC
+ Last Updated on 15/09/2026 04:23:23 UTC
 <!--END_SECTION:waka-->
