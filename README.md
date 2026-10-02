@@ -88,16 +88,38 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       42 mins             ████████████████████░░░░░   78.56 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Rider                    37 mins             ██████████████████░░░░░░░   70.26 % 
+Copilot CLI              10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Copilot                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 28 mins (53.6%)
+
+✍️ 27 lines written by AI, 6 lines written by hand (81.82% AI-written)
+
+🔤 160,189 Input Tokens, 34,657 Output Tokens
+
+💵 $1.06 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Sonnet                   27 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 81.82% of written lines came from AI
+📄 Detailed Prompter — average 520 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 56.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -117,5 +139,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 05:16:32 UTC
+ Last Updated on 02/10/2026 05:04:18 UTC
 <!--END_SECTION:waka-->
