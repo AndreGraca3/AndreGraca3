@@ -88,36 +88,35 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       2 hrs 26 mins       ███████████████░░░░░░░░░░   58.26 % 
-Other                    1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.76 % 
-SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other                    1 hr 13 mins        █████████████░░░░░░░░░░░░   52.90 % 
+C#                       1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.10 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 54 mins        ███████████░░░░░░░░░░░░░░   45.66 % 
-Copilot                  1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Rider                    1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Copilot CLI              1 hr 11 mins        █████████████░░░░░░░░░░░░   51.49 % 
+Copilot                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Rider                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (93.5%)
+⏱ AI Coding Time: 2 hrs 15 mins (97.73%)
 
-✍️ 447 lines written by AI, 46 lines written by hand (90.67% AI-written)
+✍️ 21 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,622,035 Input Tokens, 520,583 Output Tokens
+🔤 4,806,926 Input Tokens, 494,979 Output Tokens
 
-💵 $43.60 Estimated AI Cost This Week
+💵 $39.18 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 43 AI Prompts
+🧠 3 AI Sessions, 29 AI Prompts
 
-Sonnet                   668 lines           █████████████████████████   100.00 % 
+Sonnet                   466 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.67% of written lines came from AI
-📝 Concise Prompter — average 455 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 15.28% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 372 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -137,5 +136,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 05:11:12 UTC
+ Last Updated on 12/10/2026 05:24:42 UTC
 <!--END_SECTION:waka-->
