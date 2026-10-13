@@ -88,19 +88,19 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Other                    1 hr 13 mins        █████████████░░░░░░░░░░░░   52.90 % 
-C#                       1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.10 % 
+C#                       1 hr 23 mins        █████████████░░░░░░░░░░░░   53.25 % 
+Other                    1 hr 13 mins        ████████████░░░░░░░░░░░░░   46.75 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 11 mins        █████████████░░░░░░░░░░░░   51.49 % 
-Copilot                  36 mins             ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Rider                    30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Copilot CLI              1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.50 % 
+Rider                    48 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Copilot                  36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (97.73%)
+⏱ AI Coding Time: 2 hrs 15 mins (86.37%)
 
 ✍️ 21 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -136,5 +136,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 05:24:42 UTC
+ Last Updated on 13/10/2026 06:22:32 UTC
 <!--END_SECTION:waka-->
