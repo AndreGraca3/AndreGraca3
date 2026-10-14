@@ -43,7 +43,7 @@ Welcome to my profile! Let me introduce myself:
 ## 📊 My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2021%20mins-blue?style=flat)
 
@@ -88,35 +88,16 @@ Sunday                   363 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-C#                       1 hr 23 mins        █████████████░░░░░░░░░░░░   53.25 % 
-Other                    1 hr 13 mins        ████████████░░░░░░░░░░░░░   46.75 % 
+C#                       18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.50 % 
-Rider                    48 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Copilot                  36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Rider                    18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (86.37%)
-
-✍️ 21 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 4,806,926 Input Tokens, 494,979 Output Tokens
-
-💵 $39.18 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 29 AI Prompts
-
-Sonnet                   466 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -136,5 +117,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AndreGraca3/AndreGraca3/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 06:22:32 UTC
+ Last Updated on 14/10/2026 04:24:18 UTC
 <!--END_SECTION:waka-->
